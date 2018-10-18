@@ -11,3 +11,7 @@ Fill out the hc_list array:
 `python ic-ping.py`
 
 **if both are done, command line will win** 
+
+**Originally,** created for Raspberry Pi to diagnose Comcast firewall issues when the end user isn't comfortable on the command line, has come in handy over the years since. 
+
+
